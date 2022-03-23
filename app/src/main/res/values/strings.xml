@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">KotlinGB_23.03</string>
+    <string name="click">CLICK</string>
+    <string name="write_here">Write here</string>
 </resources>
